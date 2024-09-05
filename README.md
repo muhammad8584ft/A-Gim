@@ -1,4 +1,4 @@
-# Trial 14082024
+# Trial
 Microsoft 365 Developer Program - A Trial Project
 .
 .
